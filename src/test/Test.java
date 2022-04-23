@@ -29,13 +29,6 @@ class Test1{
 	public static void call(int str){
 		System.out.println(str);
 //		System.out.println("call");
-// 
-//		System.out.println("call");
-// 
-//		System.out.println("call");
-// 
-//		System.out.println("call");
-// 
 	}
 	
 }
